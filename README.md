@@ -3,7 +3,7 @@ ssm + hsf 案例部署到edas
 1、下载启动轻量级配置及注册中心
 https://help.aliyun.com/document_detail/44163.html?spm=a2c4g.11186623.2.17.4e98665dbHGApM
 
-2、下载aliTomcat及Pandora
+2、下载aliTomcat、Pandora及idea环境配置
 https://help.aliyun.com/document_detail/99410.html?spm=a2c4g.11186623.6.609.37325a300RQ7Bs
 
 3、mysql建表语句
